@@ -1,0 +1,11 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Ignorar archivos de macOS
+.DS_Store
+
+# Ignorar configuración de IntelliJ IDEA
+.idea/
+
+# Ignorar archivos de compilación de Java
+out/
