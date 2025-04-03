@@ -1,3 +1,4 @@
+
 /*
 Escribe un programa en Java que haga lo siguiente:
 
@@ -18,7 +19,7 @@ public class CaluloDeDescuento {
 
         System.out.println("Por favor ingrese el precio original del producto a calcular: ");
 
-       var precio_original = scanner.nextDouble();
+        var precio_original = scanner.nextDouble();
 
         System.out.println("Por favor ingrese el porcentaje de descuento aplicar: ");
 

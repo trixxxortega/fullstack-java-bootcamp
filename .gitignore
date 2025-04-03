@@ -1,0 +1,9 @@
+# Ignorar archivos de macOS
+.DS_Store
+
+# Ignorar configuración de IntelliJ IDEA
+.idea/
+
+# Ignorar archivos de salida de Java
+out/
+
