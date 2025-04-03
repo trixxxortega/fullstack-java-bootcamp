@@ -13,7 +13,7 @@ Muestre el resultado en consola.
 
 import java.util.Scanner;
 
-public class CaluloDeDescuento {
+public class CalculoDeDescuento {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
